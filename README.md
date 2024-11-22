@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Ozoano
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning web development. I am done with HTML & CSS basics. Next step it to try out real projects.
-- 💞️ I’m looking to collaborate on small projects using HTML & CSS
+- a passonate full-stack MERN developer with a knack for crafting elegant and efficient web applications. I'm proficient in:
+- Frontend: React, TypeScript, Redux, Next.js
+- Backend: Node.js, Express.js, MongoDB, Firebase*
+- Other: firebase, RESTful APIs, Git
+-
+- Let's build something amazing together! 🚀
 - 📫 How to reach me ...07036043139
 
 <!---
